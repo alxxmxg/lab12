@@ -150,7 +150,7 @@ Los valores se cambian en la sección `CONFIGURACION` al inicio de cada archivo.
 ├── semana12.asm
 ├── semana12_anim.asm
 ├── README.md
-└── capturas/
-    ├── parte1.png
-    └── parte2.png
+├── parte1.png
+└── parte2.png
+    
 ```
