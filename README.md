@@ -1,8 +1,8 @@
 # Laboratorio 12 – Ensamblador x64: pintar y animar un carácter en la consola
 
-**Alumno:** [TU NOMBRE]
+**Alumno:** Magaña Nuñez Julio Alejandro
 **Módulo 4 – Semana 12**
-**Video de demostración:** [ENLACE_AL_VIDEO]
+**Video de demostración:** https://youtu.be/xOQjLkTO0P4
 
 ---
 
@@ -56,7 +56,7 @@ Pasos que sigue el programa:
 
 **Resultado esperado:** una `X` amarilla sobre fondo azul en la posición (10, 5).
 
-![Captura Parte 1](capturas/parte1.png)
+![Captura Parte 1]((cap1.png))
 
 ### ¿Cómo se construye el valor COORD?
 
@@ -109,7 +109,7 @@ mientras X < COLUMNA_FIN
 
 **Resultado esperado:** una `X` verde recorre la fila 10 de izquierda a derecha sin dejar rastro.
 
-![Captura Parte 2](capturas/parte2.png)
+![Captura Parte 2](cap2.png)
 
 ---
 
