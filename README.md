@@ -56,7 +56,7 @@ Pasos que sigue el programa:
 
 **Resultado esperado:** una `X` amarilla sobre fondo azul en la posición (10, 5).
 
-![Captura Parte 1]((cap1.png))
+![Captura Parte 1](cap1.png)
 
 ### ¿Cómo se construye el valor COORD?
 
